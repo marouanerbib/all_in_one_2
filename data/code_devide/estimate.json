@@ -1,0 +1,89 @@
+{
+    "count": 3,
+    "percentage": "18.33",
+    "quarter": [
+        "Sep25",
+        "Sep26",
+        "Sep27"
+    ],
+    "Revenue": [
+        "414,410",
+        "447,540",
+        "476,234"
+    ],
+    "EBIT": [
+        "132,362",
+        "145,210",
+        "159,101"
+    ],
+    "EBITDA": [
+        "144,197",
+        "157,782",
+        "173,410"
+    ],
+    "Net Income": [
+        "110,743",
+        "121,287",
+        "133,324"
+    ],
+    "per share eps": [
+        "7.41",
+        "8.32",
+        "9.38"
+    ],
+    "eps_nri": [
+        "7.40",
+        "8.32",
+        "9.31"
+    ],
+    "Dividends Per Share": [
+        "1.02",
+        "1.07",
+        "1.13"
+    ],
+    "Book Value per Share": [
+        "3.76",
+        "4.58",
+        "5.80"
+    ],
+    "Pretax Income": [
+        "131,792",
+        "144,736",
+        "161,892"
+    ],
+    "Operating Cash Flow per Share": [
+        "8.31",
+        "9.31",
+        "10.25"
+    ],
+    "ROA %": [
+        "29.99",
+        "33.60",
+        "37.10"
+    ],
+    "ROE %": [
+        "193.81",
+        "200.09",
+        "205.32"
+    ],
+    "Gross Margin %": [
+        "46.71",
+        "47.04",
+        "48.19"
+    ],
+    "future_revenue_estimate_growth": "6.91%",
+    "future_per_share_eps_estimate_growth": "15.20%",
+    "future_eps_nri_estimate_growth": "11.41%",
+    "future_dividend_estimate_growth": "4.79%",
+    "future_operating_cash_flow_per_share_estimate_growth": "10.31%",
+    "future_book_value_per_share_estimate_growth": "16.11%",
+    "future_net_income_estimate_growth": "12.16%",
+    "future_ebit_estimate_growth": "8.97%",
+    "future_ebitda_estimate_growth": "8.86%",
+    "future_pretax_income_estimate_growth": "9.48%",
+    "future_gross_margin_estimate_growth": "1.33%",
+    "future_roa_estimate_growth": "12.36%",
+    "future_roe_estimate_growth": "8.67%",
+    "LongTermGrowthRateMean": "11.41%",
+    "LongTermRevenueGrowthRateMean": "6.91%"
+}

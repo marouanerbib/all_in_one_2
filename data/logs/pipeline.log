@@ -1,0 +1,13 @@
+2025-03-28 07:30:02,206 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/general.json
+2025-03-28 07:30:02,207 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/chart.json
+2025-03-28 07:30:02,208 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/ratio.json
+2025-03-28 07:30:02,208 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/guru.json
+2025-03-28 07:30:02,208 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/insider.json
+2025-03-28 07:30:02,209 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/company_data.json
+2025-03-28 07:30:02,210 - INFO - Saved: /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/estimate.json
+2025-03-28 07:30:02,210 - INFO - JSON division completed successfully.
+2025-03-28 07:30:02,210 - INFO - JSON divided successfully.
+2025-03-28 07:30:02,210 - WARNING - No matching columns found in /home/horhoro/PycharmProjects/all_in_one_2/data/code_devide/general.json
+2025-03-28 07:30:02,210 - INFO - Extracted data saved to /home/horhoro/PycharmProjects/all_in_one_2/data/code_extract/summary_general_extracted.json (0 items).
+2025-03-28 07:30:02,210 - INFO - Columns extracted for general
+2025-03-28 07:30:02,210 - ERROR - Pipeline failed: JSONColumnRenamer.__init__() takes 1 positional argument but 3 were given
